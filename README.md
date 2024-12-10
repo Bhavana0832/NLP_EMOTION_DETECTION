@@ -31,7 +31,11 @@ Model Training: Train machine learning models for NLP tasks.
 Evaluation: Evaluate the trained model using various metrics.
 
 INDIVIDUAL CONTRIBUTIONS 
+
 SE22UARI152 SHILPA- Preprocessing and Documentation 
+
 SE22UARI113 NISHTIHA- Evaluation and Metrics 
+
 SE22UARI090 SRIKAR- Training the Model
+
 SE22UARI073 PADMAKANTH- Model Optimization
