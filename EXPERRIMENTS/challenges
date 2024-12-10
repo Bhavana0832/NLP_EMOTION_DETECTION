@@ -1,0 +1,5 @@
+Initially, we started off with logistic regression to establish a baseline for emotion detection, 
+as it is simple and effective for classification tasks. However, the results were not as promising as we had hoped, 
+prompting us to experiment further. We tried multiple methods, including SVM and Random Forest, each offering some improvements 
+but falling short of our target accuracy. After extensive testing, we ended up moving forward with Naive Bayes, which consistently 
+delivered the best results due to its strength in handling text data and probabilistic modeling.
