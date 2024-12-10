@@ -1,5 +1,6 @@
 # NLP_EMOTION_DETECTION
 Overview
+
 This project focuses on implementing Natural Language Processing (NLP) techniques using Python. It aims to preprocess, analyze, and model text data for specific applications, leveraging libraries like pandas, numpy, and scikit-learn.
 Features
 Text preprocessing: Tokenization, stopword removal, and vectorization.
